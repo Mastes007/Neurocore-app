@@ -1,1 +1,0 @@
-# Neurocore-app
